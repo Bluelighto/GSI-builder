@@ -11,7 +11,7 @@ env:
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: A.7z
-  ROM_AB: AB.7z
+  ROM_AB: pixol.7z
 jobs:
   build:
     runs-on: ubuntu-latest
